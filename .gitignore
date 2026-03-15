@@ -1,0 +1,11 @@
+node_modules
+.next
+.claude
+*config.json
+*.config.ts
+*.config.mjs
+*.config.cjs
+*.tsbuildinfo
+*.log
+next-env.d.ts
+*.env.local
